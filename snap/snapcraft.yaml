@@ -1,6 +1,6 @@
 base: core18
 grade: stable
-confinement: classic
+confinement: strict
 parts:
   launch-scripts:
     plugin: dump
