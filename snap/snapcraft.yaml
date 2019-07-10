@@ -144,6 +144,7 @@ summary: MyApp
 description: electron-react-redux-boilerplate
 architectures:
   - armhf
+  - arm64
 apps:
   electron-react-redux-boilerplate:
     command: command.sh
