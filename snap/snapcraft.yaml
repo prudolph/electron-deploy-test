@@ -114,6 +114,7 @@ parts:
       - '-usr/lib/*/libxml2*'
       - '-usr/lib/*/libXrandr*'
       - '-usr/lib/*/libXrender*'
+      - '-usr/lib/arm-linux-gnueabihf/libnss3*'
     stage-packages:
       - libnspr4
       - libnss3
